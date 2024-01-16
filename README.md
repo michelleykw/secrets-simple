@@ -1,16 +1,16 @@
 # About
 
-This command-line program generates QR image based on the url provided by users.
+This website locks user's secrets where only upon verification, then users can access the secrets.
 
-1. Users will be prompt to enter `Type in your URL: `.
-2. QR code will be generated based on the URL entered and saved as `url_qr.png`.
-3. The URL entered by user is also saved at `url_txt`.
+1. Users guess a date.
+2. Upon successful guess, users will be redirected to the secrets page.
 
 # Setup & Run
 
 1. Clone and open the project.
 2. Download node modules: `npm install`
 3. Run with `node index.js`
+4. Open the project at `localhost://3000`
 
 # Skills
 
